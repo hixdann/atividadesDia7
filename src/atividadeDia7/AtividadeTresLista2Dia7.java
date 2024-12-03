@@ -22,9 +22,9 @@ public class AtividadeTresLista2Dia7 {
 		System.out.println("------------------------------------------------------");
 
 		System.out.println("Informe o primeiro múmero: ");
-		num1 = leia2.nextInt();
+		num1 = leia2.nextFloat();
 		System.out.println("Informe o segundo número: ");
-		num2 = leia3.nextInt();
+		num2 = leia3.nextFloat();
 		System.out.println("Informe o código da operação que deseja realizar: ");
 		opcao = leia1.nextInt();
 		
